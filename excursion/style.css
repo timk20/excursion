@@ -31,3 +31,13 @@ p {
   font-weight: 300;
   color: white;
 }
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
